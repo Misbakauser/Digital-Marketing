@@ -17,6 +17,10 @@ Weekly & Hourly Engagement Trend (Combo/Line) — identify peak engagement perio
 Engagement by Country (Map) — geographic engagement concentration
 Analysis by Month (Calendar heatmap) — daily engagement patterns
 Analysis by Ad Type (Table — Stories, Image, Video, Carousel) — IMP, CLK, CTR, PR, ER, CR by format, to identify top-performing ad formats
+<img width="1240" height="807" alt="Screenshot 2026-07-06 203649" src="https://github.com/user-attachments/assets/3726d5ea-b503-47fc-806d-dbfc78485dbf" />
+<img width="1242" height="810" alt="Screenshot 2026-07-06 203659" src="https://github.com/user-attachments/assets/1b892c9d-4143-4375-a78f-0d858024ea29" />
+
+
 
 Objective
 Provide marketing stakeholders a consolidated (all-in-one, brought together in a single place) view of ad performance across platforms to guide budget allocation and creative strategy.
